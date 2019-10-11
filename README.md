@@ -1,0 +1,3 @@
+### auto down
+
+automatic fill the login name and password, and download the file into local directory using python...
